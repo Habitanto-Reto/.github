@@ -198,17 +198,21 @@ classDiagram
 
 
 # Implementation
-
 > Code
+### Architecture
+![image](https://github.com/habitanto-reto/.github/assets/53282017/e7c55203-8894-4ba9-ade8-95e5b112e459)
 
 # Testing
 
 # Deploy
+## Infrastructure
+![Diagram](https://github.com/habitanto-reto/.github/assets/53282017/d3952bd8-e3c9-4ac3-9687-cd0f86693465)
 
 # Tools
 
 Specification commit messages: [Conventionalcommits](https://www.conventionalcommits.org/en/v1.0.0/) & [Gitmoji](https://gitmoji.dev/)
 
-# Mental draft 
 
-![image](https://github.com/Habitanto-Reto/.github/assets/53282017/d1eaec02-6cde-4676-aa4f-72885874111e)
+
+
+
